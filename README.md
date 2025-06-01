@@ -40,7 +40,7 @@ Group data by restaurant type and sum the votes. Plot a bar chart to visualize p
 
 Analysis 3: Ratings Distribution
 Use a histogram to identify the most common rating range (usually 3.5–4.0).
-![Alt Text](images/zomato_plot.png)
+![Alt Text](Analysis3.png)
 
 Analysis 4: Cost for Two People
 Count plot to observe the most common spending ranges for couples.
