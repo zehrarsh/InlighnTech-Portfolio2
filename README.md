@@ -61,7 +61,7 @@ The majority of restaurant ratings fall between 3.5 and 4.0.
 Online-ordering couples typically spend an average of ₹300–₹600.
 Online orders tend to receive slightly higher ratings than offline.
 Dining restaurants get more offline orders—ideal for offline promotions.
-![Alt Text](images/zomato_plot.png)
+![Alt Text](Insights.png)
 
 Future Scope
 Incorporate customer review text for sentiment analysis.
