@@ -48,7 +48,7 @@ Count plot to observe the most common spending ranges for couples.
 
  Analysis 5: Online vs Offline Ratings
 Box plot comparison of ratings based on whether the restaurant offers online ordering.
-![Alt Text](images/zomato_plot.png)
+![Alt Text](Analysis5.png)
 
  Analysis 6: Online Orders by Restaurant Type
 Create a pivot table and visualize it using a heatmap to show online vs offline order preferences by restaurant type.
