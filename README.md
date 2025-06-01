@@ -44,7 +44,7 @@ Use a histogram to identify the most common rating range (usually 3.5–4.0).
 
 Analysis 4: Cost for Two People
 Count plot to observe the most common spending ranges for couples.
-![Alt Text](images/zomato_plot.png)
+![Alt Text](Analysis4.png)
 
  Analysis 5: Online vs Offline Ratings
 Box plot comparison of ratings based on whether the restaurant offers online ordering.
