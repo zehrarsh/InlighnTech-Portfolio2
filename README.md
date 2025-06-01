@@ -36,7 +36,7 @@ Use a count plot to visualize the most common restaurant types.
 
 Analysis 2: Votes by Restaurant Type
 Group data by restaurant type and sum the votes. Plot a bar chart to visualize popularity.
-![Alt Text](images/zomato_plot.png)
+![Alt Text](Analysis2.png)
 
 Analysis 3: Ratings Distribution
 Use a histogram to identify the most common rating range (usually 3.5–4.0).
