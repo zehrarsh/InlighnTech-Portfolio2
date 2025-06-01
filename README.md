@@ -52,7 +52,7 @@ Box plot comparison of ratings based on whether the restaurant offers online ord
 
  Analysis 6: Online Orders by Restaurant Type
 Create a pivot table and visualize it using a heatmap to show online vs offline order preferences by restaurant type.
-![Alt Text](images/zomato_plot.png)
+![Alt Text](Analysis6.png)
 
  Insights Derived
 Most customers prefer dining-type restaurants.
