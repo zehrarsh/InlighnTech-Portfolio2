@@ -32,7 +32,7 @@ Verify and Convert Data Types: Check column data types and convert cost fields t
 Step 4: Exploratory Data Analysis & Visualization
 Analysis 1: Types of Restaurants
 Use a count plot to visualize the most common restaurant types.
-![Alt Text](images/zomato_plot.png)
+![Alt Text](TypesofRest.png)
 
 Analysis 2: Votes by Restaurant Type
 Group data by restaurant type and sum the votes. Plot a bar chart to visualize popularity.
